@@ -122,10 +122,14 @@ h1 {
 -------------------------------------------------------------------*/
 #edu{
 	background-color: #E9967A; 
+
 }
-
-
-
+#edu a{
+    text-decoration: none; /* Remove underlines from links */
+    color: #343434; /* Text color for links */
+    font-weight: bold;
+    font-size: 100%;
+}
 
 /* Find Me
 -------------------------------------------------------------------*/
